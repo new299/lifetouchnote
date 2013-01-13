@@ -1,0 +1,7 @@
+
+config QCI_RECOVERY
+	tristate "recovery Class Support"
+	help
+	  This is for QCI recovery mode.
+
+

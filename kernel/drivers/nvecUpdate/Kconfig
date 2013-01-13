@@ -1,0 +1,8 @@
+
+config NVEC_UPDATE
+	tristate "LED Class Support"
+	default y
+	help
+	  This is NV EC update driver for nvEC_UpdateTool.
+
+
